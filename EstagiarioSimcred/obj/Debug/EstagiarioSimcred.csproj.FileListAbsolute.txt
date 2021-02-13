@@ -1,0 +1,10 @@
+C:\Users\Junior Pereira\Desktop\Vinicius\Programação\Projetos Avulsos\sistemaSimcred\EstagiarioSimcred\EstagiarioSimcred\bin\Debug\EstagiarioSimcred.exe.config
+C:\Users\Junior Pereira\Desktop\Vinicius\Programação\Projetos Avulsos\sistemaSimcred\EstagiarioSimcred\EstagiarioSimcred\bin\Debug\EstagiarioSimcred.exe
+C:\Users\Junior Pereira\Desktop\Vinicius\Programação\Projetos Avulsos\sistemaSimcred\EstagiarioSimcred\EstagiarioSimcred\bin\Debug\EstagiarioSimcred.pdb
+C:\Users\Junior Pereira\Desktop\Vinicius\Programação\Projetos Avulsos\sistemaSimcred\EstagiarioSimcred\EstagiarioSimcred\obj\Debug\EstagiarioSimcred.csprojAssemblyReference.cache
+C:\Users\Junior Pereira\Desktop\Vinicius\Programação\Projetos Avulsos\sistemaSimcred\EstagiarioSimcred\EstagiarioSimcred\obj\Debug\EstagiarioSimcred.Properties.Resources.resources
+C:\Users\Junior Pereira\Desktop\Vinicius\Programação\Projetos Avulsos\sistemaSimcred\EstagiarioSimcred\EstagiarioSimcred\obj\Debug\EstagiarioSimcred.csproj.GenerateResource.cache
+C:\Users\Junior Pereira\Desktop\Vinicius\Programação\Projetos Avulsos\sistemaSimcred\EstagiarioSimcred\EstagiarioSimcred\obj\Debug\EstagiarioSimcred.csproj.CoreCompileInputs.cache
+C:\Users\Junior Pereira\Desktop\Vinicius\Programação\Projetos Avulsos\sistemaSimcred\EstagiarioSimcred\EstagiarioSimcred\obj\Debug\EstagiarioSimcred.exe
+C:\Users\Junior Pereira\Desktop\Vinicius\Programação\Projetos Avulsos\sistemaSimcred\EstagiarioSimcred\EstagiarioSimcred\obj\Debug\EstagiarioSimcred.pdb
+C:\Users\Junior Pereira\Desktop\Vinicius\Programação\Projetos Avulsos\sistemaSimcred\EstagiarioSimcred\EstagiarioSimcred\obj\Debug\EstagiarioSimcred.calculadoraJuros.resources
